@@ -1,8 +1,8 @@
 ### Hi there. I'm Theodore.
 Friends call me 'Mathiou'.
 
-So, I am from Greece. I love books, travel, sun, sea and nature.
-I also love coding and athletics. Thus, other than my full time job (currently software engineer on travel industry),
+I am from Greece. I love 📖, 🗺, ☀️, 🌊, 🏄🏻‍♂️, ⛺️.
+I also love coding (obviously) and athletics. Thus, other than my full time job (currently software engineer on travel industry),
 I spend my time trying to build something meaningful for the track and field community (till now I have fail greatly 😅).
 Also, trying to play around with new technologies (latest things Tensorflow, GraphQL)
 
