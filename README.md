@@ -6,9 +6,6 @@ I also love coding (obviously) and athletics. Thus, other than my full time job 
 I spend my time trying to build something meaningful for the track and field community (till now I have fail greatly 😅).
 Also, trying to play around with new technologies (latest things Tensorflow, GraphQL)
 
-I thought that I have to write many things, but it seems that I don't... 🤔
-That's it.
-
 By the way... What are you doing here? How did you get in here?
 Just curiosity or are you looking for something?
 If it is the latter you can find me on twitter https://twitter.com/themathiou 
