@@ -10,7 +10,7 @@ Friends call me 'Mathiou'.
 ### You can find me at 🌍
 - 📫 mathiou@icloud.com
 - 🐦 https://twitter.com/themathiou
-- 🔗 https://www.linkedin.com/feed/ 
+- 🔗 https://www.linkedin.com/in/tmathioudakis/
 
 
 <!--
