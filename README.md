@@ -1,10 +1,17 @@
-### Hi there. I'm Theodore.
+### Hi there 👋. I'm Theodore 🇬🇷.
 Friends call me 'Mathiou'.
 
-I am from Greece. I love 📖, 🗺, ☀️, 🌊, 🏄🏻‍♂️, ⛺️.
-I also love coding (obviously) and 'Track and Field'. Thus, other than my full time job (currently software engineer on travel industry),
-I spend my time trying to build something meaningful for the track and field community (till now I have fail greatly 😅).
-Also, trying to play around with new technologies (latest things Tensorflow, GraphQL)
+- 👔 I’m currently working on [Anixe](https://anixe.io/) as a Front-End Engineer and Team Leader. We are working with latest *Angular*, *Java* and *PostgreSQL*.
+- 🏟 I’m currently creating [trackandfield.io](https://trackandfield.io). A digital platform for Track and Field data and statistics using *React*, *GraphQL* and *MongoDB*. For previous failures 😅 please see: [Trafie](https://www.trafie.com) 
+- I post stuff on [Medium](https://mathiou.medium.com)
+- I like learning new things, reading, hiking, spend time with my beloved ones and explore new places. 
+
+
+### You can find me at 🌍
+- 📫 mathiou@icloud.com
+- 🐦 https://twitter.com/themathiou
+- 🔗 https://www.linkedin.com/feed/ 
+
 
 <!--
 **themathiou/themathiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
